@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Opa eai?! Eu sou o Bryan Leite, estudante da ETEC Professor Basilides de Godoy!</h1>
+  <h2>Opa eai?! Eu sou o Bryan Leite, estudante da ETEC Professor Basilides de Godoy!</h2>
 </div>
 
 <div align="center">
