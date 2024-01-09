@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Opa eai?! Eu sou o Bryan Leite, estudante da ETEC Professor Basilides de Godoy!</h3>
+  <h3>Eu sou o Bryan Leite, técnico em Desenvolvimento de Sistemas e Programação de Jogos Digitais pela ETEC Professor Basilides de Godoy.</h3>
 </div>
 
 <div align="center">
@@ -40,11 +40,9 @@
   <hr width="80%">
 </div>
 
-<div align="center"> 
-  <a href="https://www.youtube.com/channel/UC0H8HBppAXbSNYWbP1oHw8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>‎ ‎ ‎ ‎ ‎ 
-  <a href="https://www.instagram.com/um_certo_bryan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>‎ ‎ ‎ ‎ ‎ 
+<div align="center"> ‎ ‎ 
+  <a href="https://www.instagram.com/o_bryan_leite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>‎ ‎ ‎ ‎ ‎ 
   <a href = "mailto:contatobryanmarrinez03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>‎ ‎ ‎ ‎ ‎ 
   <a href="https://www.linkedin.com/in/bryan-martinez-63475b223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> ‎ ‎ ‎ ‎ ‎ 
  
-  ![Snake animation](https://github.com/BryanLeite-dev/BryanLeite-dev/blob/output/github-contribution-grid-snake.svg)
 </div>
