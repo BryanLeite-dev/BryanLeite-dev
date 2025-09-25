@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Eu sou o Bryan Leite, técnico em Desenvolvimento de Sistemas e Programação de Jogos Digitais pela ETEC Professor Basilides de Godoy.</h3>
+  <h3>Eu sou o Bryan Leite, técnico em Desenvolvimento de Sistemas e Programação de Jogos Digitais e atualmente curso Engenharia de Software na UnB</h3>
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
 </div>
 
 <div align="center"> ‎ ‎ 
-  <a href="https://www.instagram.com/o_bryan_leite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>‎ ‎ ‎ ‎ ‎ 
+  <a href="https://www.instagram.com/eude_bryan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>‎ ‎ ‎ ‎ ‎ 
   <a href = "mailto:contatobryanmarrinez03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>‎ ‎ ‎ ‎ ‎ 
   <a href="https://www.linkedin.com/in/bryan-martinez-63475b223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> ‎ ‎ ‎ ‎ ‎ 
  
